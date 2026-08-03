@@ -35,8 +35,7 @@
               "title": "Switch"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -56,7 +55,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "byModifiedTimeReverse",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Explorador de arquivos"
@@ -93,8 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "039c63b3f4a43d14",
@@ -187,8 +187,8 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "icon": "lucide-ghost",
+              "title": "git-view"
             }
           }
         ],
@@ -211,8 +211,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c7b593d77a60ed21",
+  "active": "3efa2ddd074c965e",
   "lastOpenFiles": [
+    "MeuVault/Carreira - Hub/Switch.md",
     "MeuVault/Carreira - Hub/Habilidades técnicas/Cakephp2.x/Cakephp2.x.md",
     "MeuVault/Carreira - Hub/Habilidades técnicas/Cakephp2.x/MVC.md",
     "MeuVault/Carreira - Hub/Habilidades técnicas",
@@ -225,7 +226,6 @@
     "MeuVault/Carreira - Hub",
     "MeuVault/Carreira - Hub/Exercício De programação.md",
     "MeuVault/Carreira - Hub/Loops.md",
-    "MeuVault/Carreira - Hub/Switch.md",
     "MeuVault/Homepage.md",
     "MeuVault/Carreira - Hub/Tipos de dado.md",
     "MeuVault/Carreira - Hub/Operadores.md",
