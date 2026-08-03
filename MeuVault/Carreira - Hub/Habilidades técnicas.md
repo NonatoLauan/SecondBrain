@@ -1,2 +1,0 @@
-- [[Lógica de Programação]]
-- [[Cakephp2.x]]

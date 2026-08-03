@@ -1,6 +1,0 @@
-### [[Habilidades técnicas]]
-
-### Projetos 
-
-### Roadmap
-
