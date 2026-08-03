@@ -8,13 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f80d3ce9e9b17799",
+            "id": "6392fc2d2c9b8bdc",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "SecondBrain/Inbox.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nova aba"
+              "title": "Inbox"
             }
           }
         ]
@@ -195,8 +199,20 @@
   },
   "active": "3efa2ddd074c965e",
   "lastOpenFiles": [
-    "Carreira - Hub.md",
+    "SecondBrain/Índice/Carreira - Hub/Programação/Programação.md",
+    "SecondBrain/Inbox.md",
+    "SecondBrain/Sem título",
+    "SecondBrain/Índice/Índice.md",
+    "SecondBrain/Índice/Pessoal - Hub/PessoalHUB.md",
+    "SecondBrain/Índice/Carreira - Hub/CarreiraHUB.md",
+    "SecondBrain/Índice/Pessoal - Hub/Jiu-Jitsu/Jiu-Jitsu.md",
+    "SecondBrain/Índice/Pessoal - Hub",
+    "SecondBrain/Índice/Carreira - Hub",
+    "SecondBrain/Índice/Pessoal - Hub/Jiu-Jitsu",
+    "SecondBrain/Índice/Carreira - Hub/Programação",
+    "SecondBrain/Índice",
     "MeuVault/Homepage.md",
+    "Carreira - Hub.md",
     "Pessoal - Hub.md",
     "Cakephp2.x.md",
     "MeuVault/Carreira - Hub/Habilidades técnicas/Cakephp2.x/MVC.md",
@@ -216,9 +232,7 @@
     "MeuVault/Carreira - Hub/Operadores.md",
     "MeuVault/Carreira - Hub/If e Else.md",
     "conflict-files-obsidian-git.md",
-    "MeuVault~Stashed changes",
     "Bem-vindo.md",
-    "MeuVault/Bem-vindo.md",
-    "MeuVault"
+    "MeuVault/Bem-vindo.md"
   ]
 }
