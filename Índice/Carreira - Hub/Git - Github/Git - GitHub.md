@@ -1,0 +1,2 @@
+- **Git** = ferramenta que controla versões do seu código.
+- **GitHub** = site/plataforma onde você armazena repositórios Git e colabora com outras pessoas.
