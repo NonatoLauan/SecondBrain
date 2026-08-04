@@ -2,10 +2,10 @@
 
 ## Fundamentos de Programação
 
-- [ ] Entender lógica de programação
-- [ ] Variáveis e tipos de dados
-- [ ] Operadores (aritméticos, comparação e lógicos)
-- [ ] Estruturas condicionais (if, else, switch)
+- [x] Entender lógica de programação
+- [x] Variáveis e tipos de dados
+- [x] Operadores (aritméticos, comparação e lógicos)
+- [x] Estruturas condicionais (if, else, switch)
 - [ ] Estruturas de repetição (for, while, foreach)
 - [ ] Funções e parâmetros
 - [ ] Retorno de funções
