@@ -139,9 +139,9 @@
 - [x] Push
 - [x] Pull
 - [x] Branches
-- [ ] Merge
-- [ ] Resolver conflitos
-- [ ] Pull Request
+- [x] Merge
+- [x] Resolver conflitos
+- [x] Pull Request
 - [x] Entender fluxo de trabalho em equipe
 
 
