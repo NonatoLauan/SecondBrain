@@ -134,15 +134,15 @@
 # Git
 
 - [x] Criar repositório
-- [ ] Clone
-- [ ] Commit
-- [ ] Push
-- [ ] Pull
-- [ ] Branches
+- [x] Clone
+- [x] Commit
+- [x] Push
+- [x] Pull
+- [x] Branches
 - [ ] Merge
 - [ ] Resolver conflitos
 - [ ] Pull Request
-- [ ] Entender fluxo de trabalho em equipe
+- [x] Entender fluxo de trabalho em equipe
 
 
 # Linux e Terminal
