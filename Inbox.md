@@ -133,7 +133,7 @@
 
 # Git
 
-- [ ] Criar repositório
+- [x] Criar repositório
 - [ ] Clone
 - [ ] Commit
 - [ ] Push
